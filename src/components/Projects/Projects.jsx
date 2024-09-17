@@ -6,6 +6,7 @@ import AudioBook from "../../Assets/Projects/AudioBook.png"
 import MovieApp from "../../Assets/Projects/MovieApp.png"
 import LetsChat from "../../Assets/Projects/LetsChat.png"
 import Creditcard from "../../Assets/Projects/creditcard.png"
+import Payroll from "../../Assets/Projects/Payroll.png"
 
 function Projects() {
   return (
@@ -41,6 +42,15 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={Payroll}
+              isBlog={false}
+              title="Employee Payroll Management System"
+              description="Created explicit/ref cursors for payroll, developed CDB/PDB with users, handled cursor_already_open exceptions, designed relational/materialized views, indexed AccountDetails table, and built an E-R diagram for payroll management systems."
+              ghLink="https://github.com/arunsahu16/EmployeePayrollManagementSystem.git"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={MovieApp}
               isBlog={false}
               title="MovieApp"
@@ -58,6 +68,7 @@ function Projects() {
               ghLink="https://github.com/arunsahu16/LetsChat.git"
             />
           </Col>
+
           
         </Row>
       </Container>
