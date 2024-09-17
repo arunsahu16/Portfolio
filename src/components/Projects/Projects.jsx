@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import AudioBook from "../../Assets/Projects/AudioBook.png"
 import MovieApp from "../../Assets/Projects/MovieApp.png"
 import LetsChat from "../../Assets/Projects/LetsChat.png"
+import Creditcard from "../../Assets/Projects/creditcard.png"
 
 function Projects() {
   return (
@@ -31,6 +32,15 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={Creditcard}
+              isBlog={false}
+              title="Credit Card Approval"
+              description="The project aims to predict how likely a credit card request will get approved based on age, gender, credit score, income, debt, etc. Explored the data to understand the relationship of various features with the target (Approval Status). "
+              ghLink="https://github.com/arunsahu16/CreditCardApproval.git"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={MovieApp}
               isBlog={false}
               title="MovieApp"
@@ -48,6 +58,7 @@ function Projects() {
               ghLink="https://github.com/arunsahu16/LetsChat.git"
             />
           </Col>
+          
         </Row>
       </Container>
     </Container>
