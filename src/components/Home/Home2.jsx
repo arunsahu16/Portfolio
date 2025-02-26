@@ -18,12 +18,12 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I’m a Product Manager with a strong foundation in <b className="purple">technology, data analytics, and business strategy</b>. At Medront, I’ve worked on data pod creation, enabling users to sync and monetize their data while delivering value to brands. 
+            I’m a Product Manager with a strong foundation in <b className="purple">Technology, Data analytics, and Business Strategy</b>. At Medront, I’ve worked on data pod creation, enabling users to sync and monetize their data while delivering value to brands. 
             <br />
               <br />
               With expertise in &nbsp;
               <i>
-                <b className="purple">Python, SQL, Advanced Excel, Power BI, and full-stack developmen </b> and
+                <b className="purple">Python, SQL, Advanced Excel, Power BI, and Full-stack developmen </b> and
                 I leverage data-driven insights to build impactful products. My experience in software engineering and customer engagement helps me bridge technology and business, driving user-centric solutions. Passionate about innovation and problem-solving, I thrive on creating scalable, data-backed strategies to enhance product success.
               </i>
               <br />
