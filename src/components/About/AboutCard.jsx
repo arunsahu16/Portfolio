@@ -12,10 +12,10 @@ function AboutCard() {
             from <span className="purple"> Sagar, India.</span>
             <br />
             I am a recent graduate from Indian Institute of Technology Jodhpur.
-            Currently I am working as a <span className="purple">Application Developer </span> at Medront.
+            Currently I have working as a <span className="purple">Product Manager Intern</span> at Medront.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
