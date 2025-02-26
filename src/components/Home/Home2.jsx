@@ -18,34 +18,16 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            A passionate software developer with a deep love for programming. 
+            I’m a Product Manager with a strong foundation in <b className="purple">technology, data analytics, and business strategy</b>. At Medront, I’ve worked on data pod creation, enabling users to sync and monetize their data while delivering value to brands. 
+            <br />
               <br />
-              <br />Over the years, I've honed my skills in classic languages like <b className="purple"> C++, Javascript, Python, SQL </b>, building a solid foundation in both backend and frontend development.
-
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
+              With expertise in &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Application Development.
-                </b>
+                <b className="purple">Python, SQL, Advanced Excel, Power BI, and full-stack developmen </b> and
+                I leverage data-driven insights to build impactful products. My experience in software engineering and customer engagement helps me bridge technology and business, driving user-centric solutions. Passionate about innovation and problem-solving, I thrive on creating scalable, data-backed strategies to enhance product success.
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js</b>
-              </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
