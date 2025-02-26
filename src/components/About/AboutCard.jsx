@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Arun Sahu </span>
             from <span className="purple"> Sagar, India.</span>
             <br />
-            I am a recent graduate from Indian Institute of Technology Jodhpur.
+            I am a graduate from Indian Institute of Technology Jodhpur.
             Currently I have working as a <span className="purple">Product Manager Intern</span> at Medront.
             <br />
             <br />
